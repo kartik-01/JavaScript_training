@@ -1,5 +1,7 @@
 // Coding Challenge 1 - BMI
 
+'use strict';
+
 const markHeight= 1.88;
 const markWeight= 95;
 
